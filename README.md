@@ -9,7 +9,7 @@ Example demo
 ------------
 ofxRangeToWorldCUDA_example visualizes a mesh created from 3d points.
 Control keys:
-- "n": switch between kinect's color camera and normals map fro mesh texture
+- "n": switch between kinect's color camera and normals map for the mesh texture
 - up and down arrow keys: set mesh resolution
 
 Build instructions
